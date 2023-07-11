@@ -47,5 +47,8 @@ php artisan storage:link
 php artisan serve
 ```
 
-
+### Run the test
+```bash
+php artisan test
+```
 
